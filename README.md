@@ -51,6 +51,7 @@ Technical stability (app not opening) and financial trust (balance synchronizati
 
 ---
 ## 👩‍💻 Author
-**Azizah Adilah** *Data Science Student at Institut Teknologi Sepuluh Nopember (ITS)* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/azizah-adilah)
+**Azizah Adilah** *Data Science Student at Institut Teknologi Sepuluh Nopember (ITS)* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/azizah-adilah)
 
 **Tech Stack:** Python 3.12.7, Pandas, Matplotlib, Seaborn, Sastrawi, WordCloud.
+
