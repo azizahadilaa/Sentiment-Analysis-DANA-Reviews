@@ -11,6 +11,25 @@ This project performs an end-to-end sentiment analysis of the **DANA Digital Wal
   - `03_analysis.ipynb`: Sentiment classification and advanced data visualization.
 - `visualizations/`: Exported high-resolution charts for reporting.
 
+## 🚀 How to Run
+To replicate this analysis on your local machine, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/azizahadilaa/Sentiment-Analysis-DANA-Reviews.git](https://github.com/azizahadilaa/Sentiment-Analysis-DANA-Reviews.git)
+   ```
+2. **Install Dependencies: Ensure you have Python 3.12.7 installed, then run:**
+   ```bash
+     pip install -r requirements.txt
+    ```
+3. **Execution Order: Run the Jupyter Notebooks in the notebooks/ folder sequentially:**
+   
+  > 01_scraping.ipynb: To fetch fresh data from Google Play Store.
+
+  > 02_cleaning.ipynb: To perform text preprocessing and stemming.
+
+  > 03_analysis.ipynb: To generate visualizations and sentiment insights.
+
 ## 🛠️ Techniques & Workflow
 This project implements several Data Science and NLP techniques:
 * **Web Scraping**: Dynamic data extraction from Google Play Store using `google-play-scraper`.
@@ -54,4 +73,5 @@ Technical stability (app not opening) and financial trust (balance synchronizati
 **Azizah Adilah** *Data Science Student at Institut Teknologi Sepuluh Nopember (ITS)* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/azizah-adilah)
 
 **Tech Stack:** Python 3.12.7, Pandas, Matplotlib, Seaborn, Sastrawi, WordCloud.
+
 
