@@ -1,0 +1,7 @@
+google-play-scraper
+pandas
+matplotlib
+seaborn
+nltk
+sastrawi
+wordcloud
